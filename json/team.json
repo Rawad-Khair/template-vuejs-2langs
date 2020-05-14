@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "image": "images/team/1.jpg",
+    "name": "Millar Hunt",
+    "position": "Marketing Executive"
+  },
+  {
+    "id": 1,
+    "image": "images/team/1.jpg",
+    "name": "Jonathon Doe",
+    "position": "Chief Optimizer"
+  },
+  {
+    "id": 2,
+    "image": "images/team/1.jpg",
+    "name": "Akcent Chester",
+    "position": "Frontend Developer"
+  },
+  {
+    "id": 3,
+    "image": "images/team/1.jpg",
+    "name": "Miley Christian",
+    "position": "Graphic Designer"
+  },
+  {
+    "id": 4,
+    "image": "images/team/1.jpg",
+    "name": "Mike Sinodha",
+    "position": "Backend Developer"
+  },
+  {
+    "id": 5,
+    "image": "images/team/1.jpg",
+    "name": "Millar Hunt",
+    "position": "Chief Engineer  "
+  },
+  {
+    "id": 6,
+    "image": "images/team/1.jpg",
+    "name": "Lucy Martin",
+    "position": "SEO Expert"
+  },
+  {
+    "id": 7,
+    "image": "images/team/1.jpg",
+    "name": "Robert Chris",
+    "position": "Managing Director"
+  }
+]

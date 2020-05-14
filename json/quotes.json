@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "authorImage": "images/home/quotes.png",
+    "quotesContent": "Quotes 1: Lorem ipsum dolor sit amet, consectetur adipisicing elit,seddo eiusmtempor incididunt ut labore et dolore magnveniam,quis nixercittion ullamco loris nisi ut aliquip ex xcepteur sint oct cuspidate.",
+    "author": "Rawad Khair",
+    "authorPosition": "Web Developer"
+  },
+  {
+    "id": 2,
+    "authorImage": "images/home/quotes.png",
+    "quotesContent": "Quotes 2: Lorem ipsum dolor sit amet, consectetur adipisicing elit,seddo eiusmtempor incididunt ut labore et dolore magnveniam,quis nixercittion ullamco loris nisi ut aliquip ex xcepteur sint oct cuspidate.",
+    "author": "William Smith",
+    "authorPosition": "Designer"
+  },
+  {
+    "id": 3,
+    "authorImage": "images/home/quotes.png",
+    "quotesContent": "Quotes 3: Lorem ipsum dolor sit amet, consectetur adipisicing elit,seddo eiusmtempor incididunt ut labore et dolore magnveniam,quis nixercittion ullamco loris nisi ut aliquip ex xcepteur sint oct cuspidate.",
+    "author": "David Miller",
+    "authorPosition": "Market Manager"
+  }
+]

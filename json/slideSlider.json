@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "url": "images/slider/slider-1",
+    "title": "1-Welcome To Vue Js Template",
+    "author": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 2,
+    "url": "images/slider/slider-2",
+    "title": "2-All Components Are Built By Vue.js and Pure JS",
+    "author": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. "
+  },
+  {
+    "id": 3,
+    "url": "images/slider/slider-3",
+    "title": "3-You Can Change As You Want",
+    "author": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit... "
+  },
+  {
+    "id": 4,
+    "url": "images/slider/slider-4",
+    "title": "4-Enjoy It ...!!!",
+    "author": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. "
+  }
+]

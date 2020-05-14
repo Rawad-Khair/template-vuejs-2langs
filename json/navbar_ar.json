@@ -1,0 +1,92 @@
+[
+  { "id": 1, "url": "/", "title": "الرئيسية", "dropMenu": null },
+  {
+    "id": 2,
+    "url": "#",
+    "title": "الصفحات",
+    "dropMenu": [
+      { "id": 1, "url": "#", "subTitle": "الخدمات", "subDropMenu": null },
+      {
+        "id": 2,
+        "url": "#",
+        "subTitle": "الوثائق",
+        "subDropMenu": [
+          {
+            "id": 1,
+            "url": "#",
+            "subTitle": "المعرض",
+            "subDropMenu": null
+          },
+          {
+            "id": 2,
+            "url": "#",
+            "subTitle": "التفاصيل",
+            "subDropMenu": null
+          }
+        ]
+      },
+      { "id": 3, "url": "#", "subTitle": "نبذة عنا", "subDropMenu": null },
+      { "id": 4, "url": "#", "subTitle": "اتصل بنا", "subDropMenu": null },
+      {
+        "id": 5,
+        "url": "#",
+        "subTitle": "المدونة",
+        "subDropMenu": [
+          {
+            "id": 3,
+            "url": "#",
+            "subTitle": "الشبكة",
+            "subDropMenu": null
+          },
+          {
+            "id": 4,
+            "url": "#",
+            "subTitle": "التفاصيل",
+            "subDropMenu": null
+          }
+        ]
+      },
+      { "id": 6, "url": "#", "subTitle": "فريق العمل", "subDropMenu": null }
+    ]
+  },
+  { "id": 3, "url": "#", "title": "حولنا", "dropMenu": null },
+  {
+    "id": 4,
+    "url": "#",
+    "title": "الوثائق",
+    "dropMenu": [
+      {
+        "id": 1,
+        "url": "#",
+        "subTitle": "المعرض",
+        "subDropMenu": null
+      },
+      {
+        "id": 2,
+        "url": "#",
+        "subTitle": "التفاصيل",
+        "subDropMenu": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "url": "#",
+    "title": "المدونة",
+    "dropMenu": [
+      {
+        "id": 3,
+        "url": "#",
+        "subTitle": "الشبكة",
+        "subDropMenu": null
+      },
+      {
+        "id": 4,
+        "url": "#",
+        "subTitle": "التفاصيل",
+        "subDropMenu": null
+      }
+    ]
+  },
+  { "id": 6, "url": "#", "title": "اتصل بنا", "dropMenu": null }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "graphic design", "icon": "fa-paint-brush", "value": 95 },
+  { "id": 2, "title": "web design", "icon": "fa-users", "value": 85},
+  { "id": 3, "title": "web development", "icon": "fa-files-o", "value": 80 },
+  { "id": 4, "title": "Marketing", "icon": "fa-suitcase", "value": 65 }
+]

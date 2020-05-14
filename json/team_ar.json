@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "image": "images/team/1.jpg",
+    "name": "ميللر هانت",
+    "position": "منفذ تسويقي"
+  },
+  {
+    "id": 1,
+    "image": "images/team/1.jpg",
+    "name": "جوناثون دوو",
+    "position": "شيف رئيسي"
+  },
+  {
+    "id": 2,
+    "image": "images/team/1.jpg",
+    "name": "أكسنت شيستر",
+    "position": "مطور فرونت ايند"
+  },
+  {
+    "id": 3,
+    "image": "images/team/1.jpg",
+    "name": "ميلي كريستيان",
+    "position": "مصمم فوتوغرافي"
+  },
+  {
+    "id": 4,
+    "image": "images/team/1.jpg",
+    "name": "مايك سونودا",
+    "position": "مبرمج باك اند"
+  },
+  {
+    "id": 5,
+    "image": "images/team/1.jpg",
+    "name": "ميللر هانت",
+    "position": "رئيس قسم "
+  },
+  {
+    "id": 6,
+    "image": "images/team/1.jpg",
+    "name": "لوسي مارتن",
+    "position": "خبير بحث"
+  },
+  {
+    "id": 7,
+    "image": "images/team/1.jpg",
+    "name": "روبرت كريس",
+    "position": "اداري"
+  }
+]

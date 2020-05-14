@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "فوتوغراف", "icon": "fa-paint-brush", "value": 95 },
+  { "id": 2, "title": "تصميم ويب", "icon": "fa-users", "value": 85},
+  { "id": 3, "title": "تطوير ويب", "icon": "fa-files-o", "value": 80 },
+  { "id": 4, "title": "تسویق", "icon": "fa-suitcase", "value": 65 }
+]

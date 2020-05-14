@@ -1,0 +1,92 @@
+[
+  { "id": 1, "url": "/", "title": "home", "dropMenu": null },
+  {
+    "id": 2,
+    "url": "#",
+    "title": "pages",
+    "dropMenu": [
+      { "id": 1, "url": "#", "subTitle": "services", "subDropMenu": null },
+      {
+        "id": 2,
+        "url": "#",
+        "subTitle": "portfolios",
+        "subDropMenu": [
+          {
+            "id": 1,
+            "url": "#",
+            "subTitle": "portfolio gallery",
+            "subDropMenu": null
+          },
+          {
+            "id": 2,
+            "url": "#",
+            "subTitle": "portfolio details",
+            "subDropMenu": null
+          }
+        ]
+      },
+      { "id": 3, "url": "#", "subTitle": "about us", "subDropMenu": null },
+      { "id": 4, "url": "#", "subTitle": "contact us", "subDropMenu": null },
+      {
+        "id": 5,
+        "url": "#",
+        "subTitle": "blog",
+        "subDropMenu": [
+          {
+            "id": 3,
+            "url": "#",
+            "subTitle": "blog grid",
+            "subDropMenu": null
+          },
+          {
+            "id": 4,
+            "url": "#",
+            "subTitle": "blog details",
+            "subDropMenu": null
+          }
+        ]
+      },
+      { "id": 6, "url": "#", "subTitle": "team", "subDropMenu": null }
+    ]
+  },
+  { "id": 3, "url": "#", "title": "about", "dropMenu": null },
+  {
+    "id": 4,
+    "url": "#",
+    "title": "portfolio",
+    "dropMenu": [
+      {
+        "id": 1,
+        "url": "#",
+        "subTitle": "portfolio gallery",
+        "subDropMenu": null
+      },
+      {
+        "id": 2,
+        "url": "#",
+        "subTitle": "portfolio details",
+        "subDropMenu": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "url": "#",
+    "title": "blog",
+    "dropMenu": [
+      {
+        "id": 3,
+        "url": "#",
+        "subTitle": "blog grid",
+        "subDropMenu": null
+      },
+      {
+        "id": 4,
+        "url": "#",
+        "subTitle": "blog details",
+        "subDropMenu": null
+      }
+    ]
+  },
+  { "id": 6, "url": "#", "title": "contact", "dropMenu": null }
+]

@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+  position: relative;
+  font-family: "DroidKufi-Regular", "Roboto", "sans-serif";
+}
+@font-face {
+  font-family: "DroidKufi-Regular";
+  src: url("../fonts/DroidKufi-Regular.ttf");
+}

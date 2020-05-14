@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "icon": "fa-file-o",
+    "title": "Business Planning",
+    "desc": "Lorem ipsum dolor sit am cnsicing eliiusmod tempo."
+  },
+  {
+    "id": 2,
+    "icon": "fa-newspaper-o",
+    "title": "Risk Management",
+    "desc": "Lorem ipsum dolor sit am cnsicing eliiusmod tempo."
+  },
+  {
+    "id": 3,
+    "icon": "fa-picture-o",
+    "title": "Accumulation",
+    "desc": "Lorem ipsum dolor sit am cnsicing eliiusmod tempo."
+  },
+  {
+    "id": 4,
+    "icon": "fa-book",
+    "title": "Analysis",
+    "desc": "Lorem ipsum dolor sit am cnsicing eliiusmod tempo."
+  },
+  {
+    "id": 5,
+    "icon": "fa-share",
+    "title": "Strategy",
+    "desc": "Lorem ipsum dolor sit am cnsicing eliiusmod tempo."
+  },
+  {
+    "id": 6,
+    "icon": "fa-calendar-o",
+    "title": "Discussion",
+    "desc": "Lorem ipsum dolor sit am cnsicing eliiusmod tempo."
+  },
+  {
+    "id": 7,
+    "icon": "fa-support",
+    "title": "Support",
+    "desc": "Lorem ipsum dolor sit am cnsicing eliiusmod tempo."
+  },
+  {
+    "id": 8,
+    "icon": "fa-clone",
+    "title": "Market Analysis",
+    "desc": "Lorem ipsum dolor sit am cnsicing eliiusmod tempo."
+  }
+]

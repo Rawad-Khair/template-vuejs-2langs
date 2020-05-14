@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "authorImage": "images/home/quotes.png",
+    "quotesContent": "التعلیق الأول لأحد العملاء أو أحد الأقوال المؤثرة لأحد المشاهير",
+    "author": "م.رواد خير",
+    "authorPosition": "مطور ويب"
+  },
+  {
+    "id": 2,
+    "authorImage": "images/home/quotes.png",
+    "quotesContent": "التعلیق الثاني لأحد العملاء أو أحد الأقوال المؤثرة لأحد المشاهير",
+    "author": "وليم سميث",
+    "authorPosition": "مصمم"
+  },
+  {
+    "id": 3,
+    "authorImage": "images/home/quotes.png",
+    "quotesContent": "التعلیق الثالث لأحد العملاء أو أحد الأقوال المؤثرة لأحد المشاهير",
+    "author": "ديفيد ميللر",
+    "authorPosition": "مدير تسويق"
+  }
+]

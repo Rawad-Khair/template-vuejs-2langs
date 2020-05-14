@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "url":"images/slider/slider-1",
+        "heading": "أهلا بكم في إطار العمل <pdi>VueJS</pdi>",
+        "subTitle": "كل الصفحات والمكونات مكتوبة فقط بالـ<pdi>VueJS</pdi> والجافا سكربت",
+        "desc": "نص شکلي يستخدم في تصميم الصفحات ليس لكلماته أي معنى",
+        "btnTitle": "تسجيل",
+        "btnHref": "/register",
+        "btnImage": "images/icons/logo"
+    },
+    {
+        "id": 2,
+        "url":"images/slider/slider-2",
+        "heading": " كل الصفحات والمكونات مكتوبة فقط بالـ<pdi>VueJS</pdi> والجافا سكربت",
+        "subTitle": "كل الصفحات والمكونات مكتوبة فقط بالـ<pdi>VueJS</pdi> والجافا سكربت",
+        "desc": "نص شکلي يستخدم في تصميم الصفحات ليس لكلماته أي معنى",
+        "btnTitle": "الرئيسية",
+        "btnHref": "/",
+        "btnImage": "images/icons/home"
+    },
+    {
+        "id": 3,
+        "url":"images/slider/slider-3",
+        "heading": "يمكن تغيير المكونات، الحجم، الخط والألوان",
+        "subTitle": "كل الصفحات والمكونات مكتوبة فقط بالـ<pdi>VueJS</pdi> والجافا سكربت",
+        "desc": "نص شکلي يستخدم في تصميم الصفحات ليس لكلماته أي معنى",
+        "btnTitle": "المنتجات",
+        "btnHref": "/products",
+        "btnImage": "images/icons/products"
+    },
+    {
+        "id": 4,
+        "url":"images/slider/slider-4",
+        "heading": "تمتع بالـسرعة العالية والأداء الممتاز",
+        "subTitle": "كل الصفحات والمكونات مكتوبة فقط بالـ<pdi>VueJS</pdi> والجافا سكربت",
+        "desc": "نص شکلي يستخدم في تصميم الصفحات ليس لكلماته أي معنى",
+        "btnTitle": "السلة",
+        "btnHref": "/basket",
+        "btnImage": "images/icons/basket"
+    }
+]
+

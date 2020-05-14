@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "fa-tv",
+    "title": "Graphic Design",
+    "desc": " Lorem ipsum dolorsit amet,cons ctet pasicing elit, sed do eiusmod tempo."
+  },
+  {
+    "id": 2,
+    "icon": "fa-paint-brush",
+    "title": "Web Design",
+    "desc": " Lorem ipsum dolorsit amet,cons ctet pasicing elit, sed do eiusmod tempo."
+  },
+  {
+    "id": 3,
+    "icon": "fa-files-o",
+    "title": "Web Development",
+    "desc": " Lorem ipsum dolorsit amet,cons ctet pasicing elit, sed do eiusmod tempo."
+  },
+  {
+    "id": 4,
+    "icon": "fa-spinner",
+    "title": "Marketing",
+    "desc": " Lorem ipsum dolorsit amet,cons ctet pasicing elit, sed doeiusmod tempo."
+  }
+]
